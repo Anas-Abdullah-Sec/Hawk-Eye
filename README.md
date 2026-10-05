@@ -10,17 +10,17 @@ HAWK EYE is a Python-based Nmap automation and reconnaissance tool designed for 
 
 ## 🚀 Features
 
-- ⚡ Quick Nmap Scan
-- 🔍 Common Port Scan
-- 🎯 Specific Port Scan
-- 🌐 Full TCP Port Scan
-- 🔎 Service Detection
-- 💻 OS Detection
-- 🔥 Aggressive Scan
-- ⚙️ Custom Nmap Arguments
-- 📄 Automated TXT Report Generation
-- 🖥️ Simple CLI Interface
-- 🟢 Green-on-Black Terminal Interface
+- Quick Nmap Scan
+- Common Port Scan
+- Specific Port Scan
+- Full TCP Port Scan
+- Service Detection
+- OS Detection
+- Aggressive Scan
+- Custom Nmap Arguments
+- Automated TXT Report Generation
+- Simple CLI Interface
+- Green-on-Black Terminal Interface
 
 ---
 
@@ -96,7 +96,7 @@ See the LICENSE file for details.
 
 <p align="center">
 
-🦅 HAWK EYE — Nmap Automation & Recon Tool
+🦅 <strong>HAWK EYE — Nmap Automation & Recon Tool</strong>
 
 Built with Python + Nmap for authorized security testing.
 
