@@ -35,18 +35,26 @@ HAWK EYE is a Python-based Nmap automation and reconnaissance tool designed for 
 ## 💻 Installation
 
 Clone the repository:
-
+```bash
 git clone https://github.com/Anas-Abdullah-Sec/Hawk-Eye.git
 cd Hawk-Eye
 
+```
+
 Install Nmap if it is not already installed:
 
+```bash
 sudo apt update
 sudo apt install nmap -y
 
+```
+
 Run HAWK EYE with:
 
+```bash
 python3 Hawk_Eye.py
+
+```
 
 The tool will prompt you to enter an IP address or domain name and select the desired Nmap scanning option.
 
@@ -55,17 +63,14 @@ The tool will prompt you to enter an IP address or domain name and select the de
 ## 📸 Screenshots
 
 ### HAWK EYE Interface
-![HAWK EYE Interface](Hawk_1.png)
 
 The main CLI interface of HAWK EYE, providing a clean and straightforward workflow for Nmap-based reconnaissance.
 
 ### Target & Scan Selection
-![Target & Scan Selection](Hawk_2.png)
 
 Target input and scan selection interface for choosing the appropriate reconnaissance and scanning option.
 
 ### Scan Results
-![Scan Results](Hawk_3.png)
 
 Example of HAWK EYE executing an Nmap scan and presenting the results directly through the CLI.
 
@@ -83,18 +88,16 @@ The author is not responsible for any misuse, damage, or illegal activity result
 
 ## 👤 Author
 
-**Anas Abdullah**  
-Cybersecurity Enthusiast | Security Operations | Penetration Testing  
+**Anas Abdullah**
 
-🔗 **LinkedIn:** https://www.linkedin.com/in/anasabdullah/
+Cybersecurity Enthusiast | Security Operations | Penetration Testing
+
+🔗 **LinkedIn:** [Anas Abdullah](https://www.google.com/search?q=https://www.linkedin.com/in/anasabdullah/)
 
 ---
 
 ## 📜 License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://www.google.com/search?q=LICENSE) file for details.
 
 ---
-
-HAWK EYE - Nmap Automation & Recon Tool
-Built with Python + Nmap for authorized security testing.
